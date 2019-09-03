@@ -24,7 +24,7 @@ Contoh link kode program : [Sepeda1841720125Falah](../../src/1_Pengantar_Konsep_
 
 #### class main SepedaDemo1841720125Falah
 
-![2](img/2.png)
+![2](img/2.PNG)
 
 Contoh link kode program : [SepedaDemo1841720125Falah](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720125Falah.java)
 
@@ -34,13 +34,13 @@ Contoh link kode program : [SepedaDemo1841720125Falah](../../src/1_Pengantar_Kon
 
 #### class SepedaGunung1841720125Falah
 
-![3](img/3.png)
+![3](img/3.PNG)
 
 Contoh link kode program : [SepedaGunung1841720125Falah](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720125Falah.java)
 
 #### class main
 
-![2](img/2.png)
+![2](img/2.PNG)
 
 Contoh link kode program : [SepedaDemo1841720125Falah](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720125Falah.java)
 
@@ -100,7 +100,7 @@ keseluruhan program tidak akan terganggu.
 
 4. Kecepatan,gear,merek
 
-5. ![8](img/8.png)
+5. ![8](img/8.PNG)
 
 Contoh link kode program : [Sepeda1841720125Falah](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720125Falah.java)
 
@@ -115,26 +115,26 @@ tapi kita wariskan saja class Sepeda ke class SepedaGunung.
 
 #### Parfum
 
-![4](img/4.png)
+![4](img/4.PNG)
 
 Contoh link kode program : [Parfum1841720125Falah](../../src/1_Pengantar_Konsep_PBO/Parfum1841720125Falah.java)
 
 #### Parfum Demo
 
-![7](img/7.png)
+![7](img/7.PNG)
 
 
 Contoh link kode program : [ParfumDemo1841720125Falah](../../src/1_Pengantar_Konsep_PBO/ParfumDemo1841720125Falah.java)
 
 #### Parfum Ruangan
 
-![5](img/5.png)
+![5](img/5.PNG)
 
 Contoh link kode program : [ParfumRuangan1841720125Falah](../../src/1_Pengantar_Konsep_PBO/ParfumRuangan1841720125Falah.java)
 
 #### Parfum Mobil
 
-![6](img/6.png)
+![6](img/6.PNG)
 
 Contoh link kode program : [ParfumMobil1841720125Falah](../../src/1_Pengantar_Konsep_PBO/ParfumMobil1841720125Falah.java)
 
