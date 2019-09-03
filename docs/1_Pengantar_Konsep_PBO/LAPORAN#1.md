@@ -8,6 +8,7 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
  
 
 ## Ringkasan Materi
+Untuk dasar, masih bisa dimengerti secara mudah.dan untuk materi yang ada hampir sama persis dengan materi semester 2
 
 ## Percobaan
 
@@ -17,7 +18,7 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 #### class Sepeda1841720125Falah
 
-![C1](img/1.png)
+![C1](img/1.PNG)
 
 Contoh link kode program : [Sepeda1841720125Falah](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720125Falah.java)
 
