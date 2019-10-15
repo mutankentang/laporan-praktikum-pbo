@@ -48,21 +48,22 @@ Contoh link kode program : [Utama1841720125Falah](../../src/7_Overriding_dan_Ove
 
 
 ## Latihan
-![pertanyaan1](img/pertanyaan1.png)
+
+![pertanyaan1](img/pertanyaan1.PNG)
 
 Contoh link kode program : [PerkalianKu1841720125Falah](../../src/7_Overriding_dan_Overloading/PerkalianKu1841720125Falah.java)
 
 4.1 Dari source coding diatas terletak dimanakah overloading ?
 
 ### Jawab : 
-![pertanyaan1](img/pertanyaan1.jpg)
+![pertanyaan1](img/pertanyaan1.PNG)
 
 4.2 Jika terdapat overloading ada berapa jumlah parameter yag berbeda.
 
 ### Jawab : 
         ada 1 parameter yang berbeda yaitu pada "int c".
 
-![pertanyaan2](img/pertanyaan2.png)
+![pertanyaan2](img/pertanyaan2.PNG)
 
 Contoh link kode program : [PerkalianKu1841720125Falah](../../src/7_Overriding_dan_Overloading/PerkalianKu1841720125Falah.java)
 
@@ -70,14 +71,14 @@ Contoh link kode program : [PerkalianKu1841720125Falah](../../src/7_Overriding_d
 4.3 Dari source coding diatas terletak dimanakah overloading?
 
 ### Jawab : 
-![pertanyaan2](img/pertanyaan2.jpg)
+![pertanyaan2](img/pertanyaan2.PNG)
 
 4.4 Jika terdapat overloading ada berapa tipe parameter yang berbeda ?
 
 ### Jawab :
          terdapat 4 parameter berbeda yaitu int a, int b dan double a, double b.
 
-![pertanyaan3](img/pertanyaan3.png)
+![pertanyaan3](img/pertanyaan3.PNG)
 
 
 Contoh link kode program : [FishFalah](../../src/7_Overriding_dan_Overloading/FishFalah.java)
@@ -85,7 +86,7 @@ Contoh link kode program : [FishFalah](../../src/7_Overriding_dan_Overloading/Fi
 4.5 Dari source coding diatas terletak dimanakah overriding ? 
 ### Jawab :
 
-![pertanyaan3](img/pertanyaan3.png)
+![pertanyaan3](img/pertanyaan3.PNG)
 
 4.6 Jabarkan apabila sourcoding diatas jika terdapat overriding? 
 
