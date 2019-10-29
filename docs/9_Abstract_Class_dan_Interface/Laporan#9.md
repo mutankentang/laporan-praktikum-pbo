@@ -18,13 +18,13 @@ Menerapkan Abstract Class dan Interface di dalam pembuatan program.
 
 ![1](img/1.PNG)
 
-![2](img/2.png)
+![2](img/2.PNG)
 
-![3](img/3.png)
+![3](img/3.PNG)
 
-![4](img/4.png)
+![4](img/4.PNG)
 
-![5](img/5.png)
+![5](img/5.PNG)
 
 Kode program pada Percobaan 1 : 
 
@@ -49,17 +49,17 @@ Jadi metode Lulus tidak diimplementasikan sehingga abstrak class terjadi error.
 
 ### Percobaan 2
 
-![6](img/6.png)
+![6](img/6.PNG)
 
-![7](img/7.png)
+![7](img/7.PNG)
 
-![8](img/8.png)
+![8](img/8.PNG)
 
-![9](img/9.png)
+![9](img/9.PNG)
 
-![10](img/10.png)
+![10](img/10.PNG)
 
-![11](img/11.png)
+![11](img/11.PNG)
 
 Kode program pada Percobaan 2 : 
 
@@ -92,25 +92,25 @@ Jawaban :
 
 4. 
 
-![p2a](img/p2a.png) 
+![p2a](img/p2a.PNG) 
 
-![p2b](img/p2b.png) 
+![p2b](img/p2b.PNG) 
 
 ### Percobaan 3
 
-![12](img/12.png)
+![12](img/12.PNG)
 
-![13](img/13.png)
+![13](img/13.PNG)
 
-![14](img/14.png)
+![14](img/14.PNG)
 
-![15](img/15.png)
+![15](img/15.PNG)
 
-![16](img/16.png)
+![16](img/16.PNG)
 
-![17](img/17.png)
+![17](img/17.PNG)
 
-![18](img/18.png)
+![18](img/18.PNG)
 
 
 Kode program pada Percobaan 3 : 
