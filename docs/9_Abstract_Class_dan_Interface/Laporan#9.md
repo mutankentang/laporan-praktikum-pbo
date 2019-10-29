@@ -16,7 +16,7 @@ Menerapkan Abstract Class dan Interface di dalam pembuatan program.
 
 ### Percobaan 1
 
-![1](img/1.png)
+![1](img/1.PNG)
 
 ![2](img/2.png)
 
